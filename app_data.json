@@ -65,22 +65,97 @@
   ],
   "live_wallpapers": [
     {
-      "video": "live_wallpapers/1.mp4",
-      "thumbnail": "live_wallpapers/1.jpg"
+      "video": "live_wallpapers/1.png",
+      "thumbnail": "live_wallpapers/1.png"
     },
     {
-      "video": "live_wallpapers/2.mp4",
-      "thumbnail": "live_wallpapers/2.jpg"
+      "video": "live_wallpapers/2.png",
+      "thumbnail": "live_wallpapers/2.png"
     },
     {
-      "video": "live_wallpapers/3.mp4",
-      "thumbnail": "live_wallpapers/3.jpg"
+      "video": "live_wallpapers/3.png",
+      "thumbnail": "live_wallpapers/3.png"
     },
     {
-      "video": "live_wallpapers/4.mp4",
-      "thumbnail": "live_wallpapers/4.jpg"
+      "video": "live_wallpapers/4.png",
+      "thumbnail": "live_wallpapers/4.png"
+    },
+    {
+      "video": "live_wallpapers/5.png",
+      "thumbnail": "live_wallpapers/5.png"
+    },
+    {
+      "video": "live_wallpapers/6.png",
+      "thumbnail": "live_wallpapers/6.png"
+    },
+    {
+      "video": "live_wallpapers/7.png",
+      "thumbnail": "live_wallpapers/7.png"
+    },
+    {
+      "video": "live_wallpapers/8.png",
+      "thumbnail": "live_wallpapers/8.png"
+    },
+    {
+      "video": "live_wallpapers/9.png",
+      "thumbnail": "live_wallpapers/9.png"
+    },
+    {
+      "video": "live_wallpapers/10.png",
+      "thumbnail": "live_wallpapers/10.png"
+    },
+    {
+      "video": "live_wallpapers/11.png",
+      "thumbnail": "live_wallpapers/11.png"
+    },
+    {
+      "video": "live_wallpapers/12.png",
+      "thumbnail": "live_wallpapers/12.png"
+    },
+    {
+      "video": "live_wallpapers/13.png",
+      "thumbnail": "live_wallpapers/13.png"
+    },
+    {
+      "video": "live_wallpapers/14.png",
+      "thumbnail": "live_wallpapers/14.png"
+    },
+    {
+      "video": "live_wallpapers/15.png",
+      "thumbnail": "live_wallpapers/15.png"
+    },
+    {
+      "video": "live_wallpapers/16.png",
+      "thumbnail": "live_wallpapers/16.png"
+    },
+    {
+      "video": "live_wallpapers/17.png",
+      "thumbnail": "live_wallpapers/17.png"
+    },
+    {
+      "video": "live_wallpapers/18.png",
+      "thumbnail": "live_wallpapers/18.png"
+    },
+    {
+      "video": "live_wallpapers/19.png",
+      "thumbnail": "live_wallpapers/19.png"
+    },
+    {
+      "video": "live_wallpapers/20.png",
+      "thumbnail": "live_wallpapers/20.png"
+    },
+    {
+      "video": "live_wallpapers/21.png",
+      "thumbnail": "live_wallpapers/21.png"
+    },
+    {
+      "video": "live_wallpapers/22.png",
+      "thumbnail": "live_wallpapers/22.png"
+    },
+    {
+      "video": "live_wallpapers/23.png",
+      "thumbnail": "live_wallpapers/23.png"
     }
-   
   ],
   "keyboards": [
     "keyboards/1.jpg",
@@ -91,7 +166,6 @@
     "keyboards/6.jpg",
     "keyboards/7.jpg",
     "keyboards/8.jpg"
-    
   ],
   "widgets": {
     "calendar": [
